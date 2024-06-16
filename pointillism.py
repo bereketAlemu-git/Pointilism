@@ -1,4 +1,4 @@
-#Bereket Ashebir Alemu
+#Bereket Alemu
 
 import pygame
 import random
