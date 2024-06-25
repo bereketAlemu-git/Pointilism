@@ -27,6 +27,6 @@ This Python script uses Pygame to load an image and manipulate its pixels by dra
 For example, if your image file is named `example_image.png`, you would run the script as follows:
 
 ```bash
-python script_name.py example_image.png
+python pointilism.py example_image.png
 
 This is from the course 1405 at carleton University
